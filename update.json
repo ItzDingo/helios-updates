@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "type": "optional",
+  "type": "forced",
   "url": "https://github.com/ItzDingo/helios-browser/releases/download/v1.2.0/Helios.Browser.Setup.1.2.0.exe",
   "notes": "Added Some New Settings Feature / Fixed Not Able To Enter Extensions Folder / Improved Ad-Blocker / New Quality of Life Changes / Improved Stability / Bug Fixes",
   "date": "2026-03-10"
